@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on finishing my bachelor's in MIS and expanding my programming skills.
-- 🌱 I’m currently learning how to use GitHub for demonstrating skills.
+- 🔭 I’m currently working on expanding my programming skills.
+- 🌱 I’m currently learning how to use Python for data wrangling and GitHub for demonstrating skills.
 - 👯 I’m looking to collaborate on many projects in the future.
 - 🤔 I’m looking for help with getting more comfortable using GitHub.
 - 📫 How to reach me: rherman@yourimprint.net
